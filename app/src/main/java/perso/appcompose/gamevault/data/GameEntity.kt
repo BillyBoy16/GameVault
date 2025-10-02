@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault.data
+package perso.appcompose.gamevault.data
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

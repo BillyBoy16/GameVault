@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault.ui.theme
+package perso.appcompose.gamevault.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

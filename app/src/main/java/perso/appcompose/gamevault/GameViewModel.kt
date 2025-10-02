@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault
+package perso.appcompose.gamevault
 
 import android.util.Log
 import androidx.compose.runtime.getValue
@@ -8,8 +8,8 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
-import perso.lunabee.gamevault.data.GameEntity
-import perso.lunabee.gamevault.data.GameRepository
+import perso.appcompose.gamevault.data.GameEntity
+import perso.appcompose.gamevault.data.GameRepository
 import javax.inject.Inject
 
 

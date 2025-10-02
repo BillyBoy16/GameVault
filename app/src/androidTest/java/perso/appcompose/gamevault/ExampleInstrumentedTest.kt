@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault
+package perso.appcompose.gamevault
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

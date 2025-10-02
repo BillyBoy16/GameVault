@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "perso.lunabee.gamevault"
+    namespace = "perso.appcompose.gamevault"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "perso.lunabee.gamevault"
+        applicationId = "perso.appcompose.gamevault"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

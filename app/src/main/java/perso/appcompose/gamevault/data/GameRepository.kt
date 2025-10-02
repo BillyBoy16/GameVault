@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault.data
+package perso.appcompose.gamevault.data
 
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

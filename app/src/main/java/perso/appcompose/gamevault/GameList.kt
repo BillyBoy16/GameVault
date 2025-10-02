@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault
+package perso.appcompose.gamevault
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
@@ -26,8 +26,8 @@ import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.lifecycle.ViewModel
-import perso.lunabee.gamevault.data.GameEntity
+import perso.appcompose.gamevault.data.GameEntity
+import perso.appcompose.gamevault.R
 
 // Fonction composant la liste des jeux
 @Composable

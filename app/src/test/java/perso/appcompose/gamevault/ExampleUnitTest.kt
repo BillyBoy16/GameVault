@@ -1,4 +1,4 @@
-package perso.lunabee.gamevault
+package perso.appcompose.gamevault
 
 import org.junit.Test
 
